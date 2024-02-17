@@ -1,0 +1,18 @@
+body{
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slider-wrapper .image-list{
+    display: grid;
+    grid-template-columns: repeat(10,lfr);
+}
+
+.slider-wrapper .image-list .image-item{
+   
+    object-fit: cover;
+}
+
+.container{
+    
+}
